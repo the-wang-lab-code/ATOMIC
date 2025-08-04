@@ -1,0 +1,8 @@
+flask
+numpy
+openai
+opencv-python
+scikit-learn
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git
+torch
+win32com.client
