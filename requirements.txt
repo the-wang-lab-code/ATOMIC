@@ -1,0 +1,11 @@
+gdown
+matplotlib
+numpy
+onnx
+onnxruntime
+openai
+opencv-python
+pycocotools
+scikit-learn
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git
+torch
